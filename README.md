@@ -92,7 +92,33 @@
 
 ---
 
-# 🚀 Featured Projects
+## 📜 Certifications
+
+🏅 Cisco – Introduction to Data Science
+
+🏅 Deloitte (Forage) – Data Analytics Job Simulation
+
+🏅 HP LIFE – Data Science & Analytics
+
+🏅 Simplilearn – Introduction to Data Analytics
+
+🏅 OfficeMaster – Power BI Workshop
+
+🏅 BE10E – AI Tools & ChatGPT Workshop
+
+🏅 ICAT – Internship Common Aptitude Test
+
+## 🚀 Featured Projects
+
+📊 Google Play Store Analytics
+
+🛒 Amazon Sales Analysis
+
+📈 Blinkit Sales Dashboard
+
+📉 Customer Churn Prediction
+
+🤖 Auto Data Explorer
 
 ### 📊 Data Analytics Projects
 
